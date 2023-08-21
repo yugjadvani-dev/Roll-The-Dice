@@ -1,3 +1,5 @@
+![Screenshot 2023-08-21 134024](https://github.com/yug20/Roll-The-Dice/assets/110123287/a15bb498-e6c1-4800-90b2-af688a190f33)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
